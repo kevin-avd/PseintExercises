@@ -1,4 +1,4 @@
-Algoritmo MayorMenorIgual9
+Algoritmo MayorMenorIgual
 	Definir num Como Real
 	Escribir "Ingrese el número"
 	Leer num
